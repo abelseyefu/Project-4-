@@ -17,10 +17,10 @@ diffrent types of hairservice that is offered and the prices.
 7. As a user I want to have a page that shows the appointment I made
 
 ## Technologies Used 
-- Django 
-- Sql
-- React 
-- Css
+- Django & Django rest framework (Backend)
+- Sql database (backend)
+- React Framework (frontend)
+- Css 
 - Html
 - BootStrap
 
@@ -37,9 +37,27 @@ diffrent types of hairservice that is offered and the prices.
 -id -name -photo -Description 
 
 
+## Wireframes 
+
+
+![Index Page](https://user-images.githubusercontent.com/99228361/188244415-ab8631c1-98fe-4548-bc8f-7bf6909653d8.png)
+
+
+
+
+
+
+
+
+
+
+
+
 ## MVP's
 
 1. CRUD across app
+
+
 
 
 ## Stretch Goals
